@@ -20,3 +20,6 @@ Developed "Swoleboi," a sophisticated real-time exercise pose analysis and track
 - Repetition Counting: Incorporated logic to count exercise repetitions based on the transition between exercise stages, providing users with quantitative feedback on their workout progress.
 
 - Robust Error Handling: Implemented error handling mechanisms to ensure smooth operation, including camera initialization checks and safeguards against processing failures.
+
+
+![Alt text](object_detection.png)
